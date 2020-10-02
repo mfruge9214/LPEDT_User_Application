@@ -1,0 +1,2 @@
+C:\Users\mfrug\Documents\GitHub\LPEDT_User_Application\UserInterface\Debug\UserInterface.exe
+C:\Users\mfrug\Documents\GitHub\LPEDT_User_Application\UserInterface\Debug\UserInterface.pdb
